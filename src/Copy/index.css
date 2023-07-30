@@ -1,0 +1,10 @@
+.mextend-ui-copy {
+  display: inline-block;
+  padding: 0 10px;
+  color: #fff;
+  font-size: 14px;
+  line-height: 35px;
+  text-align: center;
+  background: #f60;
+  border-radius: 6px;
+}
