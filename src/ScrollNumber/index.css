@@ -1,0 +1,17 @@
+.mextend-ui-scrollNumber {
+  display: flex;
+  height: 20px;
+  overflow: hidden;
+  text-align: center;
+}
+
+.mextend-ui-up {
+  width: 10px;
+}
+
+.mextend-ui-up > div {
+  width: 10px;
+  height: 20px;
+  font-size: 14px;
+  line-height: 20px;
+}
